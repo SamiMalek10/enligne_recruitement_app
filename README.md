@@ -253,7 +253,8 @@ MIT License
 
 ## 👥 Contribution
 
-Sami-Malek -
+**Sami Malek**  
+📧 [sami.malek15@gmail.com](mailto:sami.malek15@gmail.com)
 [👥 Lien du projet : enligne_recruitement_app](https://github.com/SamiMalek10/enligne_recruitement_app)
 
 Contributions bienvenues ! Créez une issue ou un PR.
