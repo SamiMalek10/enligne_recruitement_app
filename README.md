@@ -1,5 +1,9 @@
 # Application de Recrutement en Ligne - Big Data & MLOps
 
+🎥 **Vidéo de démonstration**  
+👉 [Voir la démo de l’application](https://drive.google.com/file/d/1ZiWBTrrV6ZNNH1AGdgvTz7ez70Qo8rWj/view)
+
+---
 ## 🎯 Objectif du Projet
 Application intelligente de recrutement utilisant le Machine Learning pour matcher automatiquement les candidats avec les postes, analyser les CV et fournir des insights via Big Data Analytics.
 
@@ -251,10 +255,19 @@ matches = response.json()
 
 MIT License
 
+---
+
+## 🎥 Démo Vidéo
+👉 **Accéder à la vidéo de démonstration complète** :  
+https://drive.google.com/file/d/1ZiWBTrrV6ZNNH1AGdgvTz7ez70Qo8rWj/view
+
+---
+
 ## 👥 Contribution
 
 **Sami Malek**  
 📧 [sami.malek15@gmail.com](mailto:sami.malek15@gmail.com)
+
 [👥 Lien du projet : enligne_recruitement_app](https://github.com/SamiMalek10/enligne_recruitement_app)
 
 Contributions bienvenues ! Créez une issue ou un PR.
